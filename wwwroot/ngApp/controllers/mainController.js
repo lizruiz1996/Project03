@@ -1,5 +1,7 @@
 class MainController {
     constructor() {
-        this.message = "hello from main";
+    
+        this.message = "Hello from main!"
+
     }
 }
